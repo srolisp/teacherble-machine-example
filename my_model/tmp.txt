@@ -1,1 +1,0 @@
-create my_model directory.
