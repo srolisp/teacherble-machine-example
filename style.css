@@ -117,15 +117,15 @@ body {
   /* TODO: div 밑 하위 임의의 div에 어떻게 style을 먹이지? */
   /* 작동안됨 */
   .file-upload-container {
-    width: 100%;
-    margin: 0;
+    /* width: 100%; */
+    /* margin: 0; */
     /* color: #fff; */
     /* background: #1FB264; */
-    border: none;
-    padding: 10px;
-    border-radius: 4px;
-    border-bottom: 4px solid #15824B;
-    transition: all .2s ease;
+    /* border: none; */
+    /* padding: 10px; */
+    /* border-radius: 4px; */
+    /* border-bottom: 4px solid #15824B; */
+    /* transition: all .2s ease; */
     outline: none;
     text-transform: uppercase;
     font-weight: 700;
